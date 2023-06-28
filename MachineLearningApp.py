@@ -65,7 +65,7 @@ if choice == "Developer":
     devCol1, devCol2 = st.columns([1.5, 2])
 
     with devCol1:
-        st.image("/Users/macbookair/Documents/VS Code/Engineering Economy/logo_kent.png")
+        st.image("logo_kent.png")
     with devCol2:
         st.markdown("""
                     <h1 class = title1>
